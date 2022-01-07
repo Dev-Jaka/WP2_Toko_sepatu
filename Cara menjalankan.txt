@@ -1,0 +1,6 @@
+Rename Folder WP2_Toko_sepatu dengan sepatu_store
+lalu jalankan xampp 
+start apache dan mysql nya
+
+lalu buka browser dan running dengan
+Localhost/sepatu_store
